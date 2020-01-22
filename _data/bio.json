@@ -64,23 +64,45 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "Windows 10",
+        "Windows 7",
+        "Windows Server 2008 R2",
+        "VMWare 5.1",
+        "ESXi 5.0",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.8",
       "courses": [
+        "ICS 314",
+        "ICS 311",
+        "ICS 355",
+        "ICS 222",
+        "Liner Algebra"
+      ]
+    },
+    {
+      "institution": "Kapiʻolani Community College, HI",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "A.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2020-05-20",
+      "gpa": "3.6",
+      "courses": [
+        "ICS 212",
+        "ICS 211",
+        "ICS 141",
+        "ICS 111",
+        "Calculus I & II"
       ]
     }
   ],
