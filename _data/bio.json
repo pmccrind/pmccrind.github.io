@@ -3,7 +3,7 @@
     "name": "Patrick McCrindle",
     "label": "Student",
     "picture": "https://pmccrind.github.io/template/images/face_shot.jpg",
-    "email": "pmccrind@hawaii.edu",
+    "email": "pmccrind@hawaii.edu", "patrick.mccrindle@gmail.com",
     "phone": "808-675-6962",
     "website": "https://pmccrind.github.io",
     "summary": "I am studying for a B.S. in Computer Science - Computer Security in the Department of Information and Computer Sciences at the University of Hawaii. My expected graduation is Fall 2021.",
@@ -29,19 +29,22 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Coding",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Aspiring Competitor",
+        "Algorithms"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Security",
       "keywords": [
+        "Security +",
+        "OpSec",
+        "Phishing"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Magic the Gathering",
       "keywords": [
       ]
     }
@@ -55,8 +58,6 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
