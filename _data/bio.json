@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Patrick McCrindle",
+    "name": "Molly Maluhia",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/face_shot.png",
-    "email": "pmccrind@hawaii.edu",
-    "phone": "808-675-6962",
-    "website": "https://pmccrind.github.io",
-    "summary": "I am studying for a B.S. in Computer Science - Computer Security in the Department of Information and Computer Sciences at the University of Hawaii. My expected graduation is Fall 2021.",
+    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,37 +17,42 @@
     "profiles": [
       {
         "network": "github",
-        "username": "pmccrind",
-        "url": "http://github.com/pmccrind"
+        "username": "mmaluhia",
+        "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "patrick-mccrindle",
-        "url": "http://linkedin.com/in/patrick-mccrindle-3106a792/"
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
       },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "interests": [
     {
-      "name": "Coding",
+      "name": "internet of things",
       "keywords": [
-        "Java",
-        "C",
-        "JavaScript"
+        "Arduino",
+        "TI MSP430"
       ]
     },
     {
-      "name": "Security",
+      "name": "data mining",
       "keywords": [
-        "Security +",
-        "OpeSec",
       ]
     },
     {
-      "name": "Magic the Gathering",
+      "name": "artificial intelligence",
       "keywords": [
-        "Turing Complete",
-        "20,00+  Cards"
       ]
     }
   ],
@@ -59,54 +64,35 @@
         "C",
         "C++",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows 10",
-        "Windows 7",
-        "Windows Server 03 R2 - 2008 R2",
+        "MacOS",
         "Ubuntu",
-        "Git/GitHub"
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2021)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2019-09-01",
-      "endDate": "Present",
-      "gpa": "3.8",
-      "courses": [ 
-        "ICS 314",
-        "ICS 311",
-        "ICS 222", 
-        "ICS 355",
-        "Liner Algebra"
-      ]
-    },
-    {
-      "institution": "Kapiʻolani Community College, HI",
-      "area": "Computer Science (expected Fall, 2020)",
-      "studyType": "A.S.",
       "startDate": "2013-09-01",
-      "endDate": "2020-05-20",
-      "gpa": "3.6",
-      "courses": [ 
-        "ICS 212",
-        "ICS 211",
-        "ICS 141",
-        "ICS 111",
-        "Calculus I & II"
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
       ]
     }
   ],
-  //CONTINUE WORKING DOWN FROM HERE
   "work": [
     {
       "company": "UH Manoa Board of Publications",
