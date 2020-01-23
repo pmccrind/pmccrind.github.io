@@ -1,11 +1,13 @@
 ---
 layout: essay
 type: essay
-title: The difficult things will always be difficult
+title: JavaScript Doesn't have a Type
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2020-01-22
 labels:
-  - Engineering
+  - JavaScript
+  - Java
+  - Coding
 ---
 You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what its going to return we can make it up as we go along, more on that later.
 
