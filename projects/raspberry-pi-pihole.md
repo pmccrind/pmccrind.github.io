@@ -25,7 +25,8 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 * Pi Hole - 
 * Bash Scripting -
 
-<img class="ui image" src="../images/pihole-traffic.jpg"> %%use diagram if citation can be given
+<!--- use diagram if citation can be given--->
+<img class="ui image" src="../images/pihole-traffic.jpg"> 
 
 ## My Solution
 
