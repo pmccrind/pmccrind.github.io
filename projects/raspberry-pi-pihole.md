@@ -21,14 +21,13 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 
 ## The Difficulties
 
-* Setting up Raspberry Pi - 
+* Setting up Raspberry Pi - The raspberry pi can be used right out of the box but we were instructed to assembly it in the provided case and with the heat sinks. Another hardware related issue was the physical connectors on the pi and my laptop were not ##.
 * Pi Hole - 
 * Bash Scripting -
-* 
 
 <img class="ui image" src="../images/pihole-traffic.jpg">
 
 ## My Solution
 
-* The First
+* The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless.
 * The Second
