@@ -14,6 +14,7 @@ summary: Reconstructed from the the white paper the SHA-1.
 ---
 
  <img class="ui image" src="../images/code-constants.PNG">
+ 
 ## My Role
 The goal was to create the hashing algorith and test it on the three provided files. Recreating the longer used encryption algorithm was intended to give greater understanding of not only C but for ecryption and decryption as a whole. The bitshifting behind the algorithm was already given and a general road map is provided to assit in understandig what the code was trying to do. This was extermely helpful once I got on the right track.
 
