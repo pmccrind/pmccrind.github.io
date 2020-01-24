@@ -30,4 +30,5 @@ The goal was to create the hashing algorith and test it on the three provided fi
 
 * Planning and executing the file open/close as the first thing that is done and the last was paramount to ensuring the file was read in properly and not accidently written too. Proper error messages were also key to give information to the programmer.
 * Helper functions are a good tool. It took a critical look at which ones were actaully called more than once helped ensure which could be hard coded into the program and which should be a function. If the program only needed to do it once then it didn't need to be its own function and could be written straight into the program.
+* Rather than introduce more variables the end of lines character's hex vaule was manually added to the array that held the characters that were read in from the file.
 
