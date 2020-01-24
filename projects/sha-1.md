@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: "" 
+image: images/sha-1-cover.PNG
 title: Secure Hashing Algorithm 1
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
