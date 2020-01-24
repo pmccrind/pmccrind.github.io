@@ -13,3 +13,15 @@ labels:
   - Metal
 summary: Hanging an aquarim light by attaching to a wall and then by a attaching it to a over hanging shelf.
 ---
+## The Problem
+
+
+## The Difficulties
+
+* One
+* Two
+
+## The Solution
+
+* One
+* Two
