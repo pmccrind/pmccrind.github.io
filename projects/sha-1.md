@@ -12,3 +12,10 @@ labels:
   - 
 summary: Reconstructed from the the white paper the SHA-1.
 ---
+## My Role
+The goal was to create the 
+
+## The Difficulties
+
+## My Solution
+
