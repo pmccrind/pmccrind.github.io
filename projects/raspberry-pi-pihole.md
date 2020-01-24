@@ -8,7 +8,7 @@ permalink: projects/raspberry-pi-pihole
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-20
 labels:
-  - CyberSecurity
+  - Raspberry Pi
   - Ad-Blocking
   - Python
 summary: Setting up a raspberry pi and using a pi-hole to block advertismets.
