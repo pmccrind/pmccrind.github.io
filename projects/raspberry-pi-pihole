@@ -10,6 +10,24 @@ labels:
   - CyberSecurity
   - Ad-Blocking
   - Python
-summary: Setting up a raspberry pi and using pi-hole.
+summary: Setting up a raspberry pi and using a pi-hole to block advertismets.
 ---
 
+ <img class="ui image" src="../images/pihole-logo.PNG">
+ 
+## My Role
+The raspbery pi's were given to the attendees of the ....
+
+## The Difficulties
+
+* Setting up Raspberry Pi - 
+* Pi Hole - 
+* Bash Scripting -
+* 
+
+<img class="ui image" src="../images/pihole-traffic.jpg">
+
+## My Solution
+
+* The First
+* The Second
