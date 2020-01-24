@@ -31,3 +31,6 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 
 * The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless.
 * The Second
+
+
+Source: <a href="https://pi-hole.net">Pi Hole</a>
