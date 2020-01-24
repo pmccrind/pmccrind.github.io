@@ -146,7 +146,7 @@
     },
     {
       "company": "United States Marine Corps",
-      "position": "E5 Data Systems Technican",
+      "position": "Data Systems Technican - Sergeant E5",
       "website": "",
       "startDate": "2009-08-01",
       "endDate": "2014-06-01",
@@ -158,7 +158,7 @@
       ]
     }
   ],
-  "volunteer": [
+ "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
@@ -187,16 +187,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Navy Marine Corps Achievement Medal",
+      "date": "2015",
+      "awarder": "Untied States Marine Corps",
+      "summary": "Ensured all servers complied with or documented all discrepancies. Mitigated all category I findings, and 1000's of category II findings. Restored legacy OWA connection by direct coordination with Microsoft and tested fixes that was rolled out to all other Marine Corps bases."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Letter of Recommendation",
+      "date": "2012",
+      "awarder": "Untied States Marine Corps",
+      "summary": "Personally remidated 750 security threats ensuring the bases USCyberCommands inspection passed with above a 98%."
     }
   ],
   "references": [
