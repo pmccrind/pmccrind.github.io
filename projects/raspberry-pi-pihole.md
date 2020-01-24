@@ -31,7 +31,7 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 ## My Solution
 
 * The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless. Additionally the limited IO on my laptop and the raspberry PI required a dongle to purchased to be able to setup the device intially. Afterwards VNC was used to be able to access the device once it was connected to the internet.
-* The last member of the group was using bash scripting to perform non-invasive "intrusions" to other raspberry pi's. This was first approved by the moderators of the seminar. With the username and passwords still set default on another members pi were able to remote in and drop a text file saying "Got you.". Using this knowloedge we used a script to scan the network for other MAC-addresses that had the same format as our raspberry pi. The "service.
+* The last member of the group was using bash scripting to perform non-invasive "intrusions" to other raspberry pi's. This was first approved by the moderators of the seminar. With the username and passwords still set default on another members pi were able to remote in and drop a text file saying "Got you.". Using this knowloedge we used a script to scan the network for other MAC-addresses that had the same format as our raspberry pi. The "service" was ultimately not able to be completed as the local router was blocking the scans from completing fully. 
 
 
 Source: <a href="https://pi-hole.net">Pi Hole</a>
