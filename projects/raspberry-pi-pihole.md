@@ -21,7 +21,7 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 
 ## The Difficulties
 
-* Setting up Raspberry Pi - The raspberry pi can be used right out of the box but we were instructed to assembly it in the provided case and with the heat sinks. Another hardware related issue was the physical connectors on the pi and my laptop were not ##.
+* Setting up Raspberry Pi - The raspberry pi can be used right out of the box but we were instructed to assembly it in the provided case and with the heat sinks. Another hardware related issue was the physical connectors on the pi and my laptop.
 * Pi Hole - 
 * Bash Scripting -
 
@@ -30,7 +30,7 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 
 ## My Solution
 
-* The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless.
+* The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless. Additionally the limited IO on my laptop and the raspberry PI required a dongle to purchased to be able to setup the device intially. Afterwards VNC was used to be able to access the device once it was connected to the internet.
 * The Second
 
 
