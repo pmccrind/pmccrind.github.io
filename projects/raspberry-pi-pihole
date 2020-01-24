@@ -1,0 +1,14 @@
+---
+layout: project
+type: project
+image: images/micromouse.jpg
+title: Raspberry Pi
+permalink: 
+# All dates must be YYYY-MM-DD format!
+date: 2019-07-20
+labels:
+  - CyberSecurity
+  - Ad-Blocking
+  - Python
+summary: Setting up a raspberry pi and using pi-hole.
+---
