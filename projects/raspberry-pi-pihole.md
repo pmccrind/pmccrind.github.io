@@ -27,8 +27,8 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 
 <!--- use diagram if citation can be given--->
 <img class="ui image" src="../images/pihole-diagram.jpg"> 
-> Brian Christner
-> https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/
+<cite> Brian Christner
+ https://brianchristner.io/how-a-single-raspberry-pi-made-my-home-network-faster/ </cite>
 ## My Solution
 
 * The heat sinks were reletively easy to install and setup but the case was not. It was unintuitive that the top must be put on before the middle and then lastly the bottom. Failing to do so would result in too much pressure being put on the power plug potentially rendering the device useless. Additionally the limited IO on my laptop and the raspberry PI required a dongle to purchased to be able to setup the device intially. Afterwards VNC was used to be able to access the device once it was connected to the internet.
