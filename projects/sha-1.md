@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/sha-1-cover.PNG
 title: SHA - 1
-permalink: projects/micromouse
+permalink: projects/sha-1
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-30
 labels:
