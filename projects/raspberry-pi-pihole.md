@@ -26,7 +26,7 @@ The raspbery pi's were given to the potential receipants of a scholarship funded
 * Bash Scripting - This was not a coding style that I was familar with. Learning the syntax and how to excute basic functions were difficult.
 
 <!--- use diagram if citation can be given--->
-<img class="ui image" src="../images/pihole-traffic.jpg"> 
+<img class="ui image" src="../images/pihole-diagram.jpg"> 
 
 ## My Solution
 
