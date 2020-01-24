@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/pi-case.jpg
 title: Raspberry Pi
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -12,3 +12,4 @@ labels:
   - Python
 summary: Setting up a raspberry pi and using pi-hole.
 ---
+
