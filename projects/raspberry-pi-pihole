@@ -1,6 +1,7 @@
 ---
 layout: project
 type: project
+published: true
 image: images/pi-case.jpg
 title: Raspberry Pi
 permalink: projects/raspberry-pi-pihole
