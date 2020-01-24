@@ -107,28 +107,41 @@
     }
   ],
   "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+     {
+      "company": "Kapiʻolani Community College",
+      "position": "Peer Mentor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-20",
+      "summary": "Tutor for both Math and ICS",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Created a friendly one on one enviroment that encouraged the student to participate and return",
+        "Coordinated with other Tutors to ensure that there was always an ICS tutor"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Securitas",
+      "position": "Security Manager",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2017-08-01",
+      "summary": "Head of Security",
+      "highlights": [
+        "Managed all training and transfers of personnel while maintaining clients expectations",
+        "Handled Customer Complaints and exceeded all required training requirements for personnel",
+        "Oversaw new camera system installtion and trained all required personnel and management staff"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "position": "Security Professional",
+      "website": "",
+      "startDate": "2014-08-01",
+      "endDate": "2016-06-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Detailed reports completed daily documenting all abnoramilties",
+        "Obsereved camera system and responded to incidents as required"
       ]
     }
   ],
