@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/pi-case.jpg
 title: Raspberry Pi
-permalink: 
+permalink: projects/raspberry-pi-pihole
 # All dates must be YYYY-MM-DD format!
 date: 2019-07-20
 labels:
