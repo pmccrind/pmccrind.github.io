@@ -21,7 +21,9 @@ It is something that you do everyday. In a high stress enviroment the response n
 Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. Below is small porition of their post:
 
 > ## Why is processing a sorted array faster than processing an unsorted array?
-`    std::sort(data, data + arraySize);
+
+`    
+std::sort(data, data + arraySize);
 
     // Test
     clock_t start = clock();
@@ -37,6 +39,7 @@ Two different popular programming languages. The code shortened to show all rele
         }
     }
 `
+
 > My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
 > * What is going on?
 > * Why is processing a sorted array faster than processing an unsorted array?
