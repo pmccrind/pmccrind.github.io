@@ -18,9 +18,20 @@ It is something that you do everyday. In a high stress enviroment the response n
 
 [Stackoverflow: Good](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
-Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. These are thing that allowed the poster to recieve not only millions of views on their question but also encouraged the respondant to follow of the same above for his reply. 
+Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. 
+
+`
+Why is processing a sorted array faster than processing an unsorted array?
+
+My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
+
+What is going on?
+Why is processing a sorted array faster than processing an unsorted array?
+The code is summing up some independent terms, so the order should not matter.
+`
 
 
+These are thing that allowed the poster to recieve not only millions of views on their question but also encouraged the respondant to follow of the same above for his reply. 
 
 ## The Bad
 
