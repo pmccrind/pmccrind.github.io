@@ -64,3 +64,5 @@ Being polite is great but more detail of their thought process, what they have a
 ## Do as I say not as I Do
 
 Asking questions in a specific way will illict a quicker more detailed response. When gathering information for your post you may even figure out the answer yourself. It helps you think about and understand more throughly what you are stuck on and your guess as to why. When the thoughts are bouncing around inside your head in can be diffucult sometimes to see the in consistents in what you are trying to do. When you are trying to get an answer from an open forum follow the format laid out by the first example and you will have a much higher likely hood that you get the answer you are looking for and not the dreaded "marked as duplicate".
+
+ <img class="ui image" src="../images/marked-as-duplicate.png">
