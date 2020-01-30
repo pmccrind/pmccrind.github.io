@@ -18,8 +18,7 @@ It is something that you do everyday. In a high stress enviroment the response n
 
 [Stackoverflow: Good](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array)
 
-Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. 
-
+Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. Below is small porition of their post:
 
 > ## Why is processing a sorted array faster than processing an unsorted array?
 > My first thought was that sorting brings the data into the cache, but then I thought how silly that was because the array was just generated.
@@ -27,8 +26,10 @@ Two different popular programming languages. The code shortened to show all rele
 > * Why is processing a sorted array faster than processing an unsorted array?
 > The code is summing up some independent terms, so the order should not matter.
 
-These are thing that allowed the poster to recieve not only millions of views on their question but also encouraged the respondant to follow of the same above for his reply. 
+By going through all the trouble to sit down and think about their question and explain what they were curious about it generated over a million views and many responses. The formatting of their question also encouraged the highest voted respondant to follow the same for their reply. They top voted response went so far as to include numerous line breaks, pictures, a link to a relevant wikipedia page and included a fix for their code. 
 
 ## The Bad
 
 [Stackoverflow: Not so Good](https://stackoverflow.com/questions/59977462/unity-gameobject-colour-change)
+
+
