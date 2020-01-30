@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/fishtank-cabinet.jpg
+image: images/fishtank-cabinet-project-cover.jpg
 title: Let There Be Light
 permalink: projects/aquarium-light
 # All dates must be YYYY-MM-DD format!
