@@ -51,7 +51,7 @@ By going through all the trouble to sit down and think about their question and 
 
 [Stackoverflow: Not so Good](https://stackoverflow.com/questions/59977462/unity-gameobject-colour-change)
 
-This post is from the oppisite prespective. The question is stated in the title, and while they have asked what they wanted to know they did not show the due diligence of someone asking a question on an open fourm. There is no mention of what they tired, what there thought process was or even an explainiation. It is most evident that asked a poor question by the reponses listed. The first was a litany of questions trying to get more detail, the second was a link to relevant parts of the Unity API methods. The post in its entirety is shown below:
+This post is from the oppisite prespective. The question is stated in the title, and while they have asked what they wanted to know they did not show the due diligence of someone asking a question on an open fourm. There is no mention of what they tired, what there thought process was or even an explainiation. It is most evident that they asked a poor question by the reponses listed. The first was a litany of questions trying to get more detail, and the second was a link to relevant parts of the API methods. The post in its entirety is shown below:
 
 > Unity gameobject colour change
 > 
@@ -59,3 +59,8 @@ This post is from the oppisite prespective. The question is stated in the title,
 >
 > Thanks!
 
+Being polite is great but more detail of their thought process, what they have already tried, and what they think the issue might be would have made it easier for the respondants to answer their question in a timely fashion. 
+
+## Do as I say not as I Do
+
+Asking questions in a specific way will illict a quicker more detailed response. When gathering information for your post you may even figure out the answer yourself. It helps you think about and understand more throughly what you are stuck on and your guess as to why. When the thoughts are bouncing around inside your head in can be diffucult sometimes to see the in consistents in what you are trying to do. When you are trying to get an answer from an open forum follow the format laid out by the first example and you will have a much higher likely hood that you get the answer you are looking for and not the dreaded "marked as duplicate".
