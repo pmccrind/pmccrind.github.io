@@ -20,6 +20,9 @@ It is something that you do everyday. In a high stress enviroment the response n
 
 Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. 
 
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
 `
 Why is processing a sorted array faster than processing an unsorted array?
 
