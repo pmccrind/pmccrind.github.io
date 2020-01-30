@@ -10,6 +10,8 @@ labels:
   - Time Management
 ---
 
+ <img class="ui image" src="../images/marked-as-duplicate.png">
+
 ## Think before you Ask
 
 It is something that you do everyday. In a high stress enviroment the response needed is often immediate. In an email it can be a bit longer to allow your thoughts to fully devolp from point to point and get the meat of what it is you are really asking. The point remains you ask questions every single day. Personally I think about what I need in a satisfactory response and whom I should ask to get the answer the fastest, but I never thought about how I should be asking my question. It is beneficail for both myself and the poor person who I had the unfortunate nature of badgering with my question to think about what I want to ask. This saves us both time and frustrastion going back and forth trying to get to the bottom of it. By showing my thought process with what I have done or haven't done it shows that I have put the time in to try, really try to get to my head wrapped around this issue. Below is a question that was asked in a thoughtful way showing the thought process and what they really dying to know. The other not so much.
@@ -20,7 +22,7 @@ It is something that you do everyday. In a high stress enviroment the response n
 
 Two different popular programming languages. The code shortened to show all relevant code start to finish for both. Specifics of what they thought was wrong and what they tired to fix it. Relevant title and all neatly formatted and largely free of grammitcal errors, additionally a summary with what their specific questions are. Below is small porition of their post:
 
-> ## Why is processing a sorted array faster than processing an unsorted array?
+> ### Why is processing a sorted array faster than processing an unsorted array?
 
 ```
 std::sort(data, data + arraySize);
@@ -64,5 +66,3 @@ Being polite is great but more detail of their thought process, what they have a
 ## Do as I say not as I Do
 
 Asking questions in a specific way will illict a quicker more detailed response. When gathering information for your post you may even figure out the answer yourself. It helps you think about and understand more throughly what you are stuck on and your guess as to why. When the thoughts are bouncing around inside your head in can be diffucult sometimes to see the in consistents in what you are trying to do. When you are trying to get an answer from an open forum follow the format laid out by the first example and you will have a much higher likely hood that you get the answer you are looking for and not the dreaded "marked as duplicate".
-
- <img class="ui image" src="../images/marked-as-duplicate.png">
