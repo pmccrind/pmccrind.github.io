@@ -45,10 +45,17 @@ std::sort(data, data + arraySize);
 > * Why is processing a sorted array faster than processing an unsorted array?
 > The code is summing up some independent terms, so the order should not matter.
 
-By going through all the trouble to sit down and think about their question and explain what they were curious about it generated over a million views and many responses. The formatting of their question also encouraged the highest voted respondant to follow the same for their reply. They top voted response went so far as to include numerous line breaks, pictures, a link to a relevant wikipedia page and included a fix for their code. 
+By going through all the trouble to sit down and think about their question and explain what they were curious about it generated over a million views and many responses. The formatting of their question also encouraged the highest voted respondant to follow the same for their reply. They top voted response went so far as to include numerous explaniations, pictures, a link to a relevant wikipedia page, and a fix for their code. All used to explain what went wrong, and more importantly why.
 
 ## The Bad
 
 [Stackoverflow: Not so Good](https://stackoverflow.com/questions/59977462/unity-gameobject-colour-change)
 
+This post is from the oppisite prespective. The question is stated in the title, and while they have asked what they wanted to know they did not show the due diligence of someone asking a question on an open fourm. There is no mention of what they tired, what there thought process was or even an explainiation. It is most evident that asked a poor question by the reponses listed. The first was a litany of questions trying to get more detail, the second was a link to relevant parts of the Unity API methods. The post in its entirety is shown below:
+
+> Unity gameobject colour change
+> 
+> So I've been with this for a while now, and am completly stuck. How exactly can I change of the colour of a game object when it is hit by another. What I want to do is when a target is hit, for it to change colour. Any ideas?
+>
+> Thanks!
 
