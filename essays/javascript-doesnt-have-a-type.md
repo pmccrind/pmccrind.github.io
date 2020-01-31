@@ -10,7 +10,7 @@ labels:
   - Coding
 ---
 
-You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what its going to return we can make it up as we go along, more on that later.
+You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what its going to return we can make it up as we go along, more in just a second.
 
 ## The Good
 Having a background in primarily Java and C the idea of being able to haphazardly throw items into an array like potatoes into a sack was a bit concerning. Then I thought why does Java need to know what’s being stored in an array? I myself couldn’t come up with a good answer for that. While it does make it neater from the perspective of you aren’t getting a string out of your integer array it makes it more cumbersome when you need to store a few of each type of a thing. Then it would just be a few variables or one array and its harder to decided which would be better at that point.
