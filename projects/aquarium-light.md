@@ -19,6 +19,8 @@ Aquariums are a great way to make your home feel more like home. Setting up all 
 
 ## First Ideas Aren't Always Winners 
 
+ <img class="ui image" src="../images/bracket-project-cover.jpg">
+
 The first install was with a bracket crafted out of pipe and metal straps were used to attach it to the wall. The section sticking up are were the cables were attached at allow for the light to hang down at the correct height. The part on the floor would was secured to the wall to ensure it hold the light. 
 
 ## Second Time's the Charm
