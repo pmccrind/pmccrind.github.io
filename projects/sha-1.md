@@ -33,3 +33,5 @@ The goal was to create the hashing algorithm and test it on the three provided f
 * Helper functions are a good tool. It took a critical look at which ones were actually called more than once helped ensure which could be hard coded into the program and which should be a function. If the program only needed to do it once, then it didn't need to be its own function and could be written straight into the program.
 * Rather than introduce more variables the end of lines character's hex value was manually added to the array that held the characters that were read in from the file.
 * Detailed, relevant, and specific comments were an absolute must. Not having them initially lead to a lot of lost time trying to remember what went where. The almost gratuitous amount of comments paid dividends when I ended up being a peer mentor and other students asked for assistance.
+
+[Source](https://github.com/pmccrind/secure-hash-1)
