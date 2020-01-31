@@ -17,7 +17,13 @@ summary: Hanging an aquarium light by attaching to a wall and then by a attachin
 
 Aquariums are a great way to make your home feel more like home. Setting up all the equipment for it can be a bit of a headache. Getting the light positioned the right distance away from the top of water line is key to making the aquarium thrive. Installing the light is another matter.
 
-The first install was with a bracket crafted out of pipe and pipe ties attached to the wall. The second time it was mounted in a more move/rent friendly way.
+## First Ideas Aren't Always Winners 
+
+The first install was with a bracket crafted out of pipe and metal straps were used to attach it to the wall. The section sticking up are were the cables were attached at allow for the light to hang down at the correct height. The part on the floor would was secured to the wall to ensure it hold the light. 
+
+## Second Time's the Charm
+
+Not wanting to deal with concrete and wall tapcon screws anothera second mounting method was implemented to make it easier to setup and take down in case it needs to be moved again.
 
 ## The Difficulties
 
