@@ -8,7 +8,7 @@ labels:
   - JavaScript
   - Software Development
 ---
- <div style="text-align: left"> <img src="../images/linking-up-by-marking-down-comic.png"> </div>
+ <div style="text-align: center"> <img src="../images/linking-up-by-marking-down-comic.png"> </div>
 
 
 Software development was not something that initially interested me. I thought that it was about building webpages and having weekly meetings about what color the logo should be. This isn’t something that I was interested in. I was wrong, however.
