@@ -5,6 +5,7 @@ title: Le‘ahi Journal 2019
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-22
 labels:
+  - Published Work
   - Short Story
   - Poem
 ---
