@@ -14,7 +14,7 @@ labels:
 summary: Setting up a raspberry pi and using a pi-hole to block advertisements.
 ---
 
- <img class="ui image" src="../images/pihole-logo.PNG">
+ <div style="text-align: right"><img src="../images/pihole-logo.PNG">
  
 ## My Role
 The raspberry pi's were given to the potential recipients of a scholarship funded by the NSF. During the weeklong screening process we had to setup, configure, and as a group add a service that assisted the other members. My contribution was setting my DNS based ad-blocking to deny as many requests as possible to ensure priority traffic such as video game streaming and a plex server as much bandwidth as possible. I used Pi-Hole to accomplish this. Pi-hole made ensuring that all requests from common ad servers were blocked outright and was able to add additional servers to the list to blacklist them if they got around the filter. Another advantage to Pi Hole is that it works in conjunction with internet plugin ad-blockers, as another layer of blocking.
