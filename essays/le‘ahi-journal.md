@@ -15,21 +15,21 @@ This is it! I’m in! he thought, as he waited his turn. He had been trying to g
 
 
 ## Shattered Love
-Her smile, her radiant beaming smile. 
-She loved every animal. 
-Free spirited often to a fault, 
-her chase of the next mountain 
-made her not see the next valley.
+Her smile, her radiant beaming smile. <br/>
+She loved every animal. <br/>
+Free spirited often to a fault, <br/>
+her chase of the next mountain <br/>
+made her not see the next valley.<br/>
 
-The skid marks on her arms outnumber,  
-my willingness to be hurt. 
-Shapeshifting into a fiending creature, 
-I don’t recognize this monster. 
-Her smile filled with too many teeth, 
-causing even animals to growl in her presence.
+The skid marks on her arms outnumber,  <br/>
+my willingness to be hurt. <br/>
+Shapeshifting into a fiending creature, <br/>
+I don’t recognize this monster. <br/>
+Her smile filled with too many teeth, <br/>
+causing even animals to growl in her presence.<br/>
 
-She lies in the valley now, 
-with her new-found friends. 
-Each day mirrored from the last, 
-looking for the next mountain top, 
-in the river of her arm.
+She lies in the valley now, <br/>
+with her new-found friends. <br/>
+Each day mirrored from the last, <br/>
+looking for the next mountain top, <br/>
+in the river of her arm.<br/>
