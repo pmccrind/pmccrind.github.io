@@ -10,9 +10,9 @@ labels:
   - Coding
 ---
 
-You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what it’s going to return we can make it up as we go along, more in just a second.
+ <img style="float: left;" src="../images/javascript-doest-have-a-type-comic.png">
 
- <img style="float: right;" src="../images/javascript-doest-have-a-type-comic.png">
+You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what it’s going to return we can make it up as we go along, more in just a second.
 
 ## The Good
 
