@@ -11,7 +11,7 @@ labels:
 ---
 
 
- <div style="text-align: right"> <img src="../images/javascript-doest-have-a-type-comic.png"> </div>
+ <div style="text-align: left"> <img src="../images/javascript-doest-have-a-type-comic.png"> </div>
 
 You can just declare a function. Yes, as a keyword. Just make a standalone function and call it. Don’t worry about what it’s going to return we can make it up as we go along, more in just a second.
 
