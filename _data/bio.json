@@ -103,10 +103,10 @@
 	      "endDate": "2020-05-20",
 	      "gpa": "3.6",
 	      "courses": [
-	        "ICS 212",
-	        "ICS 211",
-	        "ICS 141",
-	        "ICS 111",
+	        "C and C++ Programming",
+	        "Object Oriented Programming - Java", 
+	        "Discrete Mathematics I and II",
+	        "Intro to Java Programming",
 	        "Calculus I & II"
 	      ]
 	    }
