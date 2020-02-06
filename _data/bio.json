@@ -88,10 +88,10 @@
 	      "endDate": "Present",
 	      "gpa": "3.8",
 	      "courses": [
-	        "ICS 314",
-	        "ICS 311",
-	        "ICS 355",
-	        "ICS 222",
+	        "Software Development",
+	        "Intro to Algorithms",
+	        "Data and Trust",
+	        "Intro to Security Science",
 	        "Liner Algebra"
 	      ]
 	    },
