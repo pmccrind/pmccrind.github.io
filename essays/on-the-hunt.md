@@ -10,6 +10,8 @@ labels:
   - Collaboration
 ---
 
+ <div style="text-align: center"> <img src="../images/on-the-hunt-comic.jpg"> </div>
+
 ## Hand in Hand
 
 Programming can be thought of as a dance. The routine from an outsider’s perspective looks fluid, well-rehearsed, and clean. Similar to a dance if you showed up to a ballroom and started doing the funky chicken you would look out of place unless everyone else is also doing the funky chicken. This is what coding standards are trying to do, trying get everyone to agree to what dance is being done. 
