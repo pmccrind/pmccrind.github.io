@@ -19,7 +19,7 @@ Now to make a website with all the expected fixings a framework is most often us
 
 ## Hurdles 
 
-Well that is an assault to my eyes that can never be taken back. The wonderful amount of color and contrast on this page makes me wish there was less colors and hues available to the site’s owner to contrast with. Jest aside the website itself took a long time to construct if for no other reason then the sure amount of html that had to go into it. Rather than defining each individual piece a 
+Well there is an assault on my eyes that can never be taken back. The wonderful amount of color and contrast on this page makes me wish there was less colors and hues available to the site’s owner to contrast with. Jest aside the website itself probably took just as long to make as it did for myself to learn how make a functional navigation bar. Frameworks are almost their own programming language and take a similar amount of effort in order to learn how to use the one that you are using effectively. One hurdle with making them difficult to is the nature in which they are used. They need to exist in a webpage and need to be modified by CSS and/or JavaScript. This means the framework can either be the easiest part to use or the most difficult. Semantic does this well by making the design choices easy to layer and stack on one another to get the desired look and feel. 
 
 New Ways
 
