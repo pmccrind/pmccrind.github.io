@@ -10,6 +10,7 @@ labels:
 
 Gone are the days were your webpage is written entirely with html strictly for your geocities web page. Gone are the days where it is written with just html and CSS, by using a framework you make your life easier.
 
+## Frame Up
 Now to make a website with all the expected fixings a framework is most often used. This isn’t because you can’t write the website using html and CSS and have them look nearly identical it because it would take an extraordinary amount of time and effort to do so. Frameworks, largely, don’t offer provide new concepts or styles. Rather they make it easier to implement them. 
 
 Pic of the “best” geocities page camerons world
