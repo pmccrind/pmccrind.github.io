@@ -39,5 +39,3 @@ Overall using semantic was not too bad. Once you learn how a container and some 
 ```
 
 This layering makes building more complex design elements with semantic easier. Each higher-level element has more or less the same options. For example when declaring a button or an image you can start the class with ui small … replacing the ellipses with either button or image. This is what makes semantic feel cohesive from element to element, and semantic was enjoyable to learn.
-
-<div class = 'ui label'>Test Label</div>
