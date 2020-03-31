@@ -32,9 +32,9 @@ Enter Stay Home and Study(SHS). SHS is a one stop shop for studying and online t
 Mockup Pages could include:
 * Landing Page
 * User Home Page
- * Calendar
- * Submit Help Request
- * Find Help
+  1. Calendar
+  2. Submit Help Request
+  3. Find Help
 * User Profile Page
 * Admin Home Page
  * List All Requests
