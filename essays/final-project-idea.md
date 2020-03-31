@@ -30,6 +30,7 @@ Enter Stay Home and Study(SHS). SHS is a one stop shop for studying and online t
 # Enough to get Started
 
 Mockup Pages could include:
+
 * Landing Page
 * User Home Page
   1. Calendar
@@ -37,15 +38,16 @@ Mockup Pages could include:
   3. Find Help
 * User Profile Page
 * Admin Home Page
- * List All Requests
- * 
+  1. List All Requests
+  2. Update Calendar
 
 # Beyond the Scope
 
 Pages or functionality to be Added:
+
 * Authorized UH Login's Online
 * Chat/Private Message Service(User to User, User to Admin etc.)
 * Error Checking (Spell check and Class naming standards ie CHEM 161 etc.)
 * Gamification (Offer points for meetings with some reward tier)
- * Leaderboards (Tutors can recive 1-5 star rating)
- * Ranking (Allow tutors to see messages about past interaction with the student and rank them as well)
+  1. Leaderboards (Tutors can recive 1-5 star rating)
+  2. Ranking (Allow tutors to see messages about past interaction with the student and rank them as well)
