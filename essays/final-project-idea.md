@@ -35,9 +35,14 @@ Mockup Pages could include:
 
 Pages or functionality to be Added:
 
-* Authorized UH Login's Online
+* Restrict Login/Create Profile to UH email
+* Verification 
+  1. Profile Pictures required(Tutors and Students)
+  2. Tutors upload transcript to
+    1. Demonstrate compentecny in the Courses
+    2. Show GPA
 * Chat/Private Message Service(User to User, User to Admin etc.)
 * Error Checking (Spell check and Class naming standards ie CHEM 161 etc.)
-* Gamification (Offer points for meetings with some reward tier)
-  1. Leaderboards (Tutors can recive 1-5 star rating)
-  2. Ranking (Allow tutors to see messages about past interaction with the student and rank them as well)
+* Gamification (How to stand out fromt the crowd)
+  1. Ranking Tutors (Tutors can recive 1-5 star rating)
+  2. Ranking Students (Allow tutors to see messages about past interaction with the student)
