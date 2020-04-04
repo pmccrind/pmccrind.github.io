@@ -9,7 +9,7 @@ labels:
   - The Five
 ---
 
- <div style="text-align: left"> <img src="../images/javascript-doest-have-a-type-comic.png"> </div>
+ <div style="text-align: left"> <img src="../images/like-a-good-neighbor.jpg"> </div>
 # Air Gapped
 Being somewhat of an introvert. Okay as an introvert, I thought COVID-19 would have little to no effect on my daily life. In the grand scheme of things, it hasn’t, no one directly close to me has gotten sick and thankfully neither have I. I truly hope that remains the case. Apart from that keeping distance from one another hasn’t been a big challenge for me personally, but even I am yearning for interaction I got by coming to campus. Fortunately I have been able to connect with most of classmates online and maintain my sanity.
 
