@@ -3,7 +3,7 @@ layout: essay
 type: essay
 published: true
 title: "Air Gapping for Security and Now Safety"
-date: 2020-03-31
+date: 2020-04-03
 labels:
   - COVID-19
   - The Five
