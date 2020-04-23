@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: false
+published: true
 title: "Facebook Facing the Music"
 date: 2020-04-22
 labels:
@@ -9,12 +9,11 @@ labels:
   - Software Engineering
 ---
 
-# Programming Ethics
-
 Ethics has fascinated man-kind for centuries and we still don't know where we as a species stand. Not only are there different types of ethics that you can choose to follow. They tend to conflict with one another when conducting thought experiments. Who's following ethical high-road and who is making compromises? There isn't consensus on that front either.
 
 I bring all of this up to say that my view on ethics in software engineering are my own. They are certainly flawed and can be picked apart with enough scrutiny. With that out of the way here's what it means to me to be an ethical software engineer.
 
+# Programming Ethics
 
 ### Who am I potentially Harming
 
@@ -34,21 +33,33 @@ The website you built today is reasonably secure, you are only asking for the re
 
 Not all the websites built in 2010 need to be torn down. Some have undergone countless revisions, upgrades, and had features added since. If your website hasn't undergone the needed upgrades then it either needs to be upgraded or if no one is using the website it needs to come down. It sounds intuitive but every site you build or feature you implement shows you progression as a software engineer. Having links to your project(s) is a great way to show off your skill(s). Instead move the cool feature forward to a new site or update the old site so it isn't a security vulnerability.
 
+
+In addition to all of this when in doubt check out the <a href = "https://www.acm.org/code-of-ethics">ACM code of ethics</a> to see if you they can guide down the road of ethical choices.
+
 # Lights, Data, Breach
+
+After rambling about ethics for long enough lets try and use them in the following real world scenario.
+
+During the 2016 Presidential election there was a vested interest from the Russian government to have one candidate win over the other. To achieve this goal one of the tactics they used was to sow discourse and spread mis-information about the opposing candidate. They primarily did this by meeting people were they are, on Facebook. 
+
+This didn't happen under the nose of Facebook without them noticing. However, as a company with shareholders and a board of directors Facebook, like every other company, has a laser focus goal. Make more profits than last quarter. Keeping this in mind we are able to better understand the decision that Facebook chose. They first decided to hide the fact that is was happening. Then Facebook chose to deny that it happened at all. Then when that was no longer an adequate explanation they attempted to shift the blame to anyone and everyone else remotely involved. Finally, Facebook tone and direction changed, no longer content to sit on its heels it attacked those who also involved. It should be noted the last step happened when the stock of Facebook plummeted.
 
 # Bringing Down the Hammer
 
+This sounds damning and after writing it in single paragraph it's easy to see they acted un-ethically. For the sake of argument lets examine each decision and how it violates the principles as laid out by the ACM code of Ethics.
+
+### Hiding the Evidence
+
+### Deny, Deny, Deny
+
+### Finger-pointing
+
+### Full Court Press
 
 
 
 
-
-
-
-
-
-
-Then, describe the situation you chose to analyze with respect to its ethical implications. Finally, present your conclusions: what is your personal opinion as to the ethical stance to be taken?
+Finally, present your conclusions: what is your personal opinion as to the ethical stance to be taken?
 
 Did Facebook violate any of the ACM Code of Ethics? For example, consider Principles 1.2, 1.3, 1.6, 2.7, 3.1, and 3.7.
 
@@ -59,3 +70,11 @@ Was Sandberg acting ethically or unethically? Justify your answer by reference t
 As a company, what is Facebook ethically obligated to do now? Justify your answer by reference to one or more principles in the ACM Code of Ethics.
 
 As a consumer, are you ethically obligated to delete your Facebook account in light of these findings? Why or why not? Justify your answer by reference to one or more principles in the ACM Code of Ethics.
+
+
+
+
+
+
+
+
