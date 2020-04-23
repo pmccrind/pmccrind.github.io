@@ -50,6 +50,8 @@ This sounds damning and after writing it in single paragraph it's easy to see th
 
 ### Hiding the Evidence
 
+By actively attempting to hide 
+
 ### Deny, Deny, Deny
 
 ### Finger-pointing
