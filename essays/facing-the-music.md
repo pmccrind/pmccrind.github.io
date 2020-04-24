@@ -65,19 +65,8 @@ It is clear to me that by not being forth coming with the information that a hos
 
 The timing it critical in my opinion to judge if harm was created by them hiding the evidence. If they knew after it was already being reported then they weren't hiding it during the most critical time. They were being asleep at the wheel in a sense.
 
-### Full Court Press
+### Blaming the People not the System
 
-Facebook has gone from hiding the information, to denial, to victim blaming, to lastly attacking those who were critical of Facebook. This is again a moral grey area. It is clear that you be
+Facebook has gone from hiding the information, to denial, and now to blaming others involved. I believe this was done simply to shift the focus away from themselves so they will have less of a backlash against them. In my mind this is dishonest behavior, play what-aboutism with others while you are culpable is done to mitigate the damage done to yourself. ACM 1.3 on honesty "Making deliberately false or misleading claims, fabricating or falsifying data, offering or accepting bribes, and other dishonest conduct are violations of the Code." Admittiadaly this falls into the other category.
 
-
-
-
-
-
-
-
-
-
-
-
-
+Lastly some other areas where Facebook acted unethically is ACM 1.6 of respecting privacy. In my mind if anyone of us sat down and read what we had to agree to to sign-up for the site we wouldn't use the platform anymore. One final area where Facebook acted unethically is ACM 3.7 taking care of systems that become integrated into the infrastructure of society. Facebook is very clearly part of our present day society. They did not keep the system fair in a way where people are who they say they are additionally they were poor stewards of their system by allowing these groups to take hold in the way that they did.
