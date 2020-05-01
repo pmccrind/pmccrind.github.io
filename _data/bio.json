@@ -1,183 +1,184 @@
 {
-	  "basics": {
-	    "name": "Patrick McCrindle",
-	    "label": "Student",
-	    "picture": "https://pmccrind.github.io/images/300_300.jpg",
-	    "email": "pmccrind@hawaii.edu",
-	    "phone": "808-675-6962",
-	    "website": "https://pmccrind.github.io",
-	    "summary": "I am studying for a B.S. in Computer Science - Computer Security in the Department of Information and Computer Sciences at the University of Hawaii. My expected graduation is Fall 2021.",
-	    "location": {
-	      "address": "",
-	      "postalCode": "96822",
-	      "city": "Honolulu",
-	      "countryCode": "USA",
-	      "region": "Hawaii"
-	    },
-	    "profiles": [
-	      {
-	        "network": "github",
-	        "username": "pmccrind",
-	        "url": "http://github.com/pmccrind"
-	      },
-	      {
-	        "network": "linkedin",
-	        "username": "patrick-mccrindle",
-	        "url": "http://linkedin.com/in/patrick-mccrindle-3106a792/"
-	      }
-	    ]
-	  },
-	  "interests": [
-	    {
-	      "name": "Coding",
-	      "keywords": [
-	        "Aspiring Competitor",
-	        "Algorithms"
-	      ]
-	    },
-	    {
-	      "name": "Security",
-	      "keywords": [
-	        "Security +",
-	        "OpSec",
-	        "Phishing"
-	      ]
-	    }
-	  ],
-	  "skills": [
-	    {
-	      "name": "Languages and Frameworks",
-	      "level": "",
-	      "keywords": [
-	        "C",
-	        "C++",
-	        "Java",
-	        "JavaScript",
-	      ]
-	    },
-	    {
-	      "name": "Toolsets/OS",
-	      "level": "",
-	      "keywords": [
-	        "Windows 10",
-	        "Windows 7",
-	        "Windows Server 2008 R2",
-	        "VMWare 5.1",
-	        "ESXi 5.0",
-	        "Ubuntu",
-	        "Git/GitHub"
-	      ]
-	    }
-	  ],
-	  "education": [
-	    {
-	      "institution": "University of Hawaii, Honolulu, HI",
-	      "area": "Computer Science (expected Spring, 2021)",
-	      "studyType": "B.S.",
-	      "startDate": "2019-09-01",
-	      "endDate": "Present",
-	      "gpa": "3.8",
-	      "courses": [
-	        "Software Development",
-	        "Intro to Algorithms",
-	        "Data and Trust",
-	        "Intro to Security Science",
-	        "Liner Algebra"
-	      ]
-	    },
-	    {
-	      "institution": "Kapiʻolani Community College, HI",
-	      "area": "Computer Science (expected Spring, 2020)",
-	      "studyType": "A.S.",
-	      "startDate": "2015-09-01",
-	      "endDate": "2020-05-20",
-	      "gpa": "3.6",
-	      "courses": [
-	        "C and C++ Programming",
-	        "Object Oriented Programming - Java", 
-	        "Discrete Mathematics I and II",
-	        "Intro to Java Programming",
-	        "Calculus I & II"
-	      ]
-	    }
-	  ],
-	  "work": [
-	     {
-	      "company": "Kapiʻolani Community College",
-	      "position": "Peer Mentor",
-	      "website": "",
-	      "startDate": "2018-08-01",
-	      "endDate": "2019-05-20",
-	      "summary": "Tutor for both Math and ICS",
-	      "highlights": [
-	        "Created a friendly one on one environment that encouraged the student to participate and return",
-	        "Coordinated with other Tutors to ensure that there was always an ICS tutor",
-		"College Reading and Learning Association certified."
-	      ]
-	    },
-	    {
-	      "company": "Securitas",
-	      "position": "Security Manager",
-	      "website": "",
-	      "startDate": "2016-06-01",
-	      "endDate": "2017-08-01",
-	      "summary": "Head of Security",
-	      "highlights": [
-	        "Managed all training and transfers of personnel while maintaining clients expectations",
-	        "Handled Customer Complaints and exceeded all required training requirements for personnel",
-	        "Oversaw new camera system installation and trained all required personnel and management staff"
-	      ]
-	    },
-	    {
-	      "company": "Allied Universal",
-	      "position": "Security Professional",
-	      "website": "",
-	      "startDate": "2014-08-01",
-	      "endDate": "2016-06-01",
-	      "summary": "",
-	      "highlights": [
-	        "Detailed reports completed daily documenting all abnormalities",
-	        "Observed camera system and responded to incidents as required"
-	      ]
-	    },
-	    {
-	      "company": "United States Marine Corps",
-	      "position": "Data Systems Technician - Sergeant E5",
-	      "website": "",
-	      "startDate": "2009-08-01",
-	      "endDate": "2014-06-01",
-	      "summary": "Promoted above peers and hand selected for the Commanding Generals Communication Team",
-	      "highlights": [
-	        "Server Administrator: Monitored and ensured 99% uptime to 100 servers on two isolated networks",
-	        "Communication team: responsible for setting wireless, satellite, and 2 separate networks while deployed to foreign countries",
-	        "Awards: Navy and Marine Corps Achievement Medal (2), Meritorious Mast"
-	      ]
-	    }
-	  ],
-	  "awards": [
-	    {
-	      "title": "Published Works- Shattered Love",
-	      "date": "2019",
-	      "awarder": "Kapi'olani Community College: Board of Student Publications",
-	      "summary": "Poem selected for publication in yearly journal. Published work can be found in the Essay's tab under Le‘ahi Journal 2019."
-	    },
-	    {
-	      "title": "Navy Marine Corps Achievement Medal",
-	      "date": "2015",
-	      "awarder": "Untied States Marine Corps",
-	      "summary": "Ensured all servers complied with or documented all discrepancies. Mitigated all category I findings, and 1000's of category II findings. Restored legacy OWA connection by direct coordination with Microsoft and tested fixes that was rolled out to all other Marine Corps bases."
-	    },
-	    {
-	      "title": "Letter of Recommendation",
-	      "date": "2012",
-	      "awarder": "Untied States Marine Corps",
-	      "summary": "Personally remediated 750 security threats ensuring the bases US Cybercommands inspection passed with above a 98%."
-	    }
-	  ],
-	  "references": [
-	    {
-	      "name": "Available upon request.",
-	      "reference": ""
-	    }
-	  ]
-	}
+  "basics": {
+    "name": "Patrick McCrindle",
+    "label": "Student",
+    "picture": "https://pmccrind.github.io/images/300_300.jpg",
+    "email": "pmccrind@hawaii.edu",
+    "phone": "808-675-6962",
+    "website": "https://pmccrind.github.io",
+    "summary": "I am studying for a B.S. in Computer Science - Computer Security in the Department of Information and Computer Sciences at the University of Hawaii. My expected graduation is Fall 2021.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "pmccrind",
+        "url": "http://github.com/pmccrind"
+      },
+      {
+        "network": "linkedin",
+        "username": "patrick-mccrindle",
+        "url": "http://linkedin.com/in/patrick-mccrindle-3106a792/"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Coding",
+      "keywords": [
+        "Aspiring Competitor",
+        "Algorithms"
+      ]
+    },
+    {
+      "name": "Security",
+      "keywords": [
+        "Security +",
+        "OpSec",
+        "Phishing"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "Windows 10",
+        "Windows 7",
+        "Windows Server 2008 R2",
+        "VMWare 5.1",
+        "ESXi 5.0",
+        "Ubuntu",
+        "Git/GitHub"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2021)",
+      "studyType": "B.S.",
+      "startDate": "2019-09-01",
+      "endDate": "Present",
+      "gpa": "3.8",
+      "courses": [
+        "Software Development",
+        "Intro to Algorithms",
+        "Data and Trust",
+        "Intro to Security Science",
+        "Linear Algebra"
+      ]
+    },
+    {
+      "institution": "Kapiʻolani Community College, HI",
+      "area": "Computer Science (expected Spring, 2020)",
+      "studyType": "A.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2020-05-20",
+      "gpa": "3.6",
+      "courses": [
+        "C and C++ Programming",
+        "Object Oriented Programming - Java",
+        "Discrete Mathematics I and II",
+        "Intro to Java Programming",
+        "Calculus I & II"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Kapiʻolani Community College",
+      "position": "Peer Mentor",
+      "website": "",
+      "startDate": "2018-08-01",
+      "endDate": "2019-05-20",
+      "summary": "Tutored for ICS up to 241, and Math Classes up to Calc I",
+      "highlights": [
+        "Created a positive environment, assisted students as needed with coding projects and topics",
+        "Coordinated with other ICS tutors ensuring help was always available",
+        "Filled a Tutoring need for EE 160, learned alongside the students to provide programming knowledge",
+        "College Reading and Learning Association certified, Level 1."
+      ]
+    },
+    {
+      "company": "Securitas",
+      "position": "Security Manager",
+      "website": "",
+      "startDate": "2016-06-01",
+      "endDate": "2017-08-01",
+      "summary": "Head of Security",
+      "highlights": [
+        "Managed all training and transfers of personnel while maintaining clients expectations",
+        "Handled Customer Complaints and exceeded all required training requirements for personnel",
+        "Oversaw new camera system installation and trained all required personnel and management staff"
+      ]
+    },
+    {
+      "company": "Allied Universal",
+      "position": "Security Professional",
+      "website": "",
+      "startDate": "2014-08-01",
+      "endDate": "2016-06-01",
+      "summary": "",
+      "highlights": [
+        "Detailed reports completed daily documenting all abnormalities",
+        "Observed camera system and responded to incidents as required"
+      ]
+    },
+    {
+      "company": "United States Marine Corps",
+      "position": "Data Systems Technician - Sergeant E5",
+      "website": "",
+      "startDate": "2009-08-01",
+      "endDate": "2014-06-01",
+      "summary": "Promoted above peers and hand selected for the Commanding Generals Communication Team",
+      "highlights": [
+        "Server Administrator: Monitored and ensured 99% uptime to 100 servers on two isolated networks",
+        "Communication team: responsible for setting wireless, satellite, and 2 separate networks while deployed to foreign countries",
+        "Awards: Navy and Marine Corps Achievement Medal (2), Meritorious Mast"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Published Works- Shattered Love",
+      "date": "2019",
+      "awarder": "Kapi'olani Community College: Board of Student Publications",
+      "summary": "Poem selected for publication in yearly journal. Published work can be found in the Essay's tab under Le‘ahi Journal 2019."
+    },
+    {
+      "title": "Navy Marine Corps Achievement Medal",
+      "date": "2015",
+      "awarder": "Untied States Marine Corps",
+      "summary": "Ensured all servers complied with or documented all discrepancies. Mitigated all category I findings, and 1000's of category II findings. Restored legacy OWA connection by direct coordination with Microsoft and tested fixes that was rolled out to all other Marine Corps bases."
+    },
+    {
+      "title": "Letter of Recommendation",
+      "date": "2012",
+      "awarder": "Untied States Marine Corps",
+      "summary": "Personally remediated 750 security threats ensuring the bases US Cybercommands inspection passed with above a 98%."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request.",
+      "reference": ""
+    }
+  ]
+}
