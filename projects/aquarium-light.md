@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/fishtank-cabinet-project-cover.jpg
 title: Let There Be Light
 permalink: projects/aquarium-light
