@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: Linking Up by Marking Down
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-22

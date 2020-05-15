@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Air Gapping for Security and Now Safety"
 date: 2020-04-03
 labels:

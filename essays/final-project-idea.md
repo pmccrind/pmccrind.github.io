@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: "Final Project Idea"
 date: 2020-03-31
 labels:

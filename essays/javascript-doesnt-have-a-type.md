@@ -1,6 +1,7 @@
 ---
 layout: essay
 type: essay
+published: false
 title: JavaScript Doesn't have a Type
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-22
