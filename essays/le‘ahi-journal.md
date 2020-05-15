@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Le‘ahi Journal 2019
 # All dates must be YYYY-MM-DD format!
-date: 2020-01-22
+date: 2019-05-01
 labels:
   - Published Work
   - Poem
