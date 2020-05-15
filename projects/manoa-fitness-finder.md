@@ -35,7 +35,7 @@ My role for this project was project manager. My group, being one of the larger 
  
  By seeing the way someone else tackled, or was trying to tackle, a problem it gave me a better understanding of how the problem could be solved. From this I was able to learn many different ways to accomplish the same task. However sometimes the new tech can be a bit too much. This is tale of how  components are good thing but can make things more complicated if too many are used. 
  
- ### The tales of Components
+### The tales of Components
  
  It started out easy. The profile page displays the comments the other users have left on your profile at the bottom of the page. Rather add the notes to the Profile collection a separate collection was made to store the notes with a link being the user's email address so they could be displayed in the page. Then the profile page was made to handle the the displaying of the notes on the page. This was changed to model it after the My events page.
  
@@ -45,7 +45,7 @@ My role for this project was project manager. My group, being one of the larger 
 
 
  <div style="text-align: center">
-    <img src="../images/event%20page.PNG" alt = ''> 
+    <img src="../images/event_page.PNG" alt = ''> 
  </div>
  
  This ended making editing the attending events a nightmare. In end the events collection should had been expanded with the attending list because they are always displayed together. 
