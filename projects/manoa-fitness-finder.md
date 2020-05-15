@@ -45,7 +45,9 @@ My role for this project was project manager. My group, being one of the larger 
 
 
  <div style="text-align: center">
+    <br/>
     <img src="../images/event_page.PNG" alt = ''> 
+    <br/>
  </div>
  
  This ended making editing the attending events a nightmare. In end the events collection should had been expanded with the attending list because they are always displayed together. 
