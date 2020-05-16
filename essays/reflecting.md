@@ -14,7 +14,7 @@ I know what you are thinking. Web design is all about having a never ending scro
 ## Dreaming in Code
 
  <div style="text-align: center">
-<img class="ui image" src="../images/numbers.png" alt = ''> 
+    <img class="ui image medium center" src="../images/numbers.png" alt = ''> 
  </div>
  
 
@@ -33,7 +33,7 @@ One more shortcut in Intellij that is extremely useful is control + alt + l. The
 ## Everyone Has Standards
 
  <div style="text-align: center">
-<img class="ui image" src="../images/bad_indentation.jpg" alt = ''> 
+<img class="ui image medium center" src="../images/bad_indentation.jpg" alt = ''> 
  </div>
 
 Not like this. Not like this. This an example of what code shouldn't look like. Spacing is all off the indentations are non-existent and it is a mess. This is what coding standards tired to avoid. It tries to all code more readable by making all adhere to the same rules. While it may be tedious to have exactly 1 space after the left parentheses and exactly one space between both sides of the equal sign but it is worth the hassle (or not much hassle with Intellij). 
