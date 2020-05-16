@@ -7,6 +7,7 @@ date: 2020-04-22
 labels:
   - Software Engineering
   - IntelliJ
+  - Coding Standards
 ---
 
 I know what you are thinking. Web design is all about having a never ending scroll of words that dont even sound like english like "var" and "const" and poof out comes a web page. Well the fact of the matter is you are mostly right. Do not panic! Its not all bad! With some software we can make this a lot easier to not only read but to fix (in case its not working right).
@@ -14,7 +15,7 @@ I know what you are thinking. Web design is all about having a never ending scro
 ## Dreaming in Code
 
  <div style="text-align: center">
-    <img class="ui image medium center" src="../images/numbers.png" alt = ''> 
+    <img class="ui image large center" src="../images/numbers.png" alt = ''> 
  </div>
  
 
@@ -33,7 +34,7 @@ One more shortcut in Intellij that is extremely useful is control + alt + l. The
 ## Everyone Has Standards
 
  <div style="text-align: center">
-<img class="ui image medium center" src="../images/bad_indentation.jpg" alt = ''> 
+<img class="ui image large center aligned" src="../images/bad_indentation.jpg" alt = ''> 
  </div>
 
 Not like this. Not like this. This an example of what code shouldn't look like. Spacing is all off the indentations are non-existent and it is a mess. This is what coding standards tired to avoid. It tries to all code more readable by making all adhere to the same rules. While it may be tedious to have exactly 1 space after the left parentheses and exactly one space between both sides of the equal sign but it is worth the hassle (or not much hassle with Intellij). 
